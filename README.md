@@ -2,7 +2,7 @@
 
 AI and robotics engineer. BSc Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET), Bangladesh.
 
-I build perception and learning systems that have to work on real machines: computer vision, sensor fusion, deep learning, and the data and deployment work around them.
+I build perception and learning systems that have to work on real machines: computer vision, sensor fusion, deep learning, and the deployment work around them.
 
 📫 musfiqurtonmoy@gmail.com
 
