@@ -1,6 +1,6 @@
 ## Hi, I'm Md. Musfiqur Rahman
 
-**AI engineer** building deep learning, computer vision and reinforcement learning systems that run on real robots and machines.
+**AI and Robotics Engineer** building deep learning, computer vision and reinforcement learning systems that run on real robots and machines.
 BSc Mechatronics Engineering, RUET · 4 peer-reviewed papers · Reviewer for Springer Nature journals
 
 📫 musfiqurtonmoy@gmail.com
